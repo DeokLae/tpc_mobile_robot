@@ -1,6 +1,6 @@
 # tpc_mobile_robot proto 1 ROS2 HUMBLE
 
-<h2>tpc 모바일 로봇 프로토 #1</h2>
+<code>tpc 모바일 로봇 프로토 #1</code>
 
 ros2 humble<br>
 rplidar a1<br>
